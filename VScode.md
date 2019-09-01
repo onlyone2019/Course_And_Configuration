@@ -1,7 +1,8 @@
 
 ## VScode 安装配置教程
 
-##### 这里提到的所有安装包和配置文件需要大家到我网盘下载一下啦，链接：
+##### 这里提到的所有安装包和配置文件需要大家到我网盘下载一下啦，链接：https://pan.baidu.com/s/1KLjyqc1IDhbg4Jh_Ps--Ng 
+提取码：vv1a 
 
 ### 1、下载VScode安装
 点击VScode安装包运行安装即可
@@ -31,4 +32,4 @@ VScode里ctrl+shift+p里输入 setting 首选项打开设置，将setting.json�
 
 4、将下载.vscode 文件 并将其粘贴到C工程目录下，并将.vscode文件中c_cpp_properties.json文件中的路径LLVM之前的更改为你自己的目录
 
-![image](.\image\VScode.png)
+![image](https://github.com/onlyone2019/Course_And_Configuration/blob/master/image/VScode.png)
